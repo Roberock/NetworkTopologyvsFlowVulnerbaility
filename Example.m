@@ -1,8 +1,8 @@
 clc
 close all
 clear variables
-addpath('D:\WORK FOLDER\MATLAB SOURCE CODES\FREE_SOURCECODES\matpower5.1\matpower5.1') % Matpower path
-addpath('D:\WORK FOLDER\MATLAB SOURCE CODES\MATPOWER CASES\UK Matpower CASEs POWER GRID') % additional case study (UK grids)
+addpath('D:\WORK FOLDER\MATLAB SOURCE CODES\FREE_SOURCECODES\matpower5.1\matpower5.1') % add matpower path
+%addpath('D:\WORK FOLDER\MATLAB SOURCE CODES\MATPOWER CASES\UK Matpower CASEs POWER GRID') % additional case study (UK grids)
 %% number of contingencies
 N=10;% number og contingencies accounted
 %% LOAD MATPOWER CASE FORMAT
